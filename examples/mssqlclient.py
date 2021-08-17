@@ -24,7 +24,7 @@ import sys
 import os
 import logging
 
-from impacket.examples import logger
+from impacket.examples import logging
 from impacket.examples.utils import parse_target
 from impacket import version, tds
 
